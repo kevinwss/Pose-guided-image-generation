@@ -1,0 +1,8 @@
+numpy
+scipy
+tensorflow-gpu==1.3.0
+opencv-python
+easydict
+matplotlib
+keras
+pillow
